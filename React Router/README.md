@@ -1,8 +1,8 @@
-# React + Vite
+# React Router Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Aboout Project 
+- In this project i made a simmple website in which made all component like header , footer and use them many times.
+- This website include 4 page which is home, about us, contect us, github. Except Github page all pages is static and in the Github page using github api fetch data like username and profile picture.
+- Also make promps if you enter prompsId in the url then you show promps on webpage which is that you passed in the url.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
